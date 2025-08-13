@@ -56,14 +56,10 @@ Ikuti langkah-langkah ini untuk menjalankan bot di lingkungan Anda sendiri.
     ```
 
 5.  **Jalankan Bot**:
-    * Untuk development (dengan auto-restart):
-        ```bash
+    Untuk development (dengan auto-restart):
+    ```bash
         npm run dev
-        ```
-    * Untuk produksi (menjalankan dari folder `dist` setelah `build`):
-        ```bash
-        npm start
-        ```
+    ```
 
 ---
 
