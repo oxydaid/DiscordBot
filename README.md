@@ -1,6 +1,6 @@
 # Oxyda Bot 🤖
 
-[![Discord.js](https'img.shields.io/badge/discord.js-v14-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org/) [![Node.js](https'img.shields.io/badge/Node.js-18.x+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![Lisensi](https'img.shields.io/badge/Lisensi-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Discord.js](https://img.shields.io/badge/discord.js-v14-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org/) [![Node.js](https://img.shields.io/badge/Node.js-18.x+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![Lisensi](https://img.shields.io/badge/Lisensi-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 Bot Discord multifungsi yang canggih, modular, dan dapat dikonfigurasi sepenuhnya, dirancang untuk mengelola dan meningkatkan pengalaman komunitas Anda secara otomatis.
 
@@ -37,7 +37,7 @@ Ikuti langkah-langkah ini untuk menjalankan bot di lingkungan Anda sendiri.
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/username/nama-repo.git](https://github.com/username/nama-repo.git)
+    git clone https://github.com/oxydaid/DiscordBot.git
     cd nama-repo
     ```
 
