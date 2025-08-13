@@ -38,7 +38,7 @@ Ikuti langkah-langkah ini untuk menjalankan bot di lingkungan Anda sendiri.
 1.  **Clone repositori ini:**
     ```bash
     git clone https://github.com/oxydaid/DiscordBot.git
-    cd nama-repo
+    cd DiscordBot
     ```
 
 2.  **Instal semua dependensi:**
@@ -52,13 +52,13 @@ Ikuti langkah-langkah ini untuk menjalankan bot di lingkungan Anda sendiri.
 4.  **Jalankan Migrasi Database**:
     Perintah ini akan secara otomatis membuat semua tabel yang dibutuhkan oleh bot.
     ```bash
-    npm run knex:migrate:latest
+    npm run migrate:latest
     ```
 
 5.  **Jalankan Bot**:
     Untuk development (dengan auto-restart):
     ```bash
-        npm run dev
+    npm run dev
     ```
 
 ---
